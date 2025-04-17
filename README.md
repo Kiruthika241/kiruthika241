@@ -3,7 +3,7 @@
 A final-year Computer Science Engineering student at **Adithya Institute of Technology**, Coimbatore.
 
 I'm Currently learning MERN Full Stack.
-
+___
 ### 🎨 What I Love:
 Designing beautiful, accessible, and intuitive user interfaces-Web Design
 ___
