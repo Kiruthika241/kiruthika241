@@ -1,5 +1,5 @@
 
-### I'm Kritika Devi
+### 👋 Hi there,I'm Kritika Devi
 A final-year Computer Science Engineering student at **Adithya Institute of Technology**, Coimbatore.
 
 I'm Currently learning MERN Full Stack.
