@@ -1,7 +1,6 @@
 
 ### 👋 Hi there,I'm Kritika Devi
-
-I'm Currently learning MERN Full Stack.
+I'm Currently learning MERN Full Stack & UI & UX design 
 ___
 ### 🎨 What I Love:
 Designing beautiful, accessible, and intuitive user interfaces-Web Design
