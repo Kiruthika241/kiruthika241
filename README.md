@@ -1,4 +1,4 @@
-👋 Hi there,I'm Kritika Devi<br>I'm Currently learning MERN Full Stack & UI & UX design<br><br>🎨 What I Love:<br>Designing beautiful, accessible, and intuitive user interfaces-Web Design<br><br>Exploring creative visual design, especially logo creation and brand identity-Logo Creation<br><br>📫 Connect with Me:<br>LinkedIn email<br><br>💻 Tech Stack:<br>HTML5 CSS3 Canva Power Bi Figma Netlify bootstrap javascript<br>
+👋 Hi there,I'm Kritika Devi<br>I'm Currently learning MERN Full Stack & UI & UX design<br><br>🎨 What I Love:<br>Designing beautiful, accessible, and intuitive user interfaces-Web Design<br><br>Exploring creative visual design, especially logo creation and brand identity-Logo Creation<br><br>💻 Tech Stack:<br>HTML5 CSS3 Canva Power Bi Figma Netlify bootstrap javascript<br>
 
 
 ## 🌐 Socials:
